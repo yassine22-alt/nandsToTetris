@@ -28,9 +28,9 @@ The software section includes tools like a custom assembler, virtual machine tra
 ## How to Use
 
 1. Clone the repository:
-   '''bash
+   ```bash
         git clone https://github.com/yassine22-alt/nandsToTetrisProjects.git
-   '''
+   
 2. Navigate to a project directory and open the relevant `.hdl` or `.asm` files using the Nand2Tetris tools.
 3. Run the files in the Hardware Simulator or other tools provided by Nand2Tetris.
 
