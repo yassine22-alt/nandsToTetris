@@ -1,7 +1,3 @@
-# nandsToTetrisProjectsHere’s a README template you can use for your Nand2Tetris project repository:
-
----
-
 # Nand2Tetris Custom Solutions
 
 This repository contains my personalized solutions for the **Nand2Tetris** projects, part of the course _"The Elements of Computing Systems"_ by Nisan and Schocken. It includes implementations of both hardware components and software for building a simple, fully functional computer from the ground up.
